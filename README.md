@@ -1,6 +1,6 @@
 🍰 **Cake Management System**
 
-_A Java-based application for managing cakes and orders, featuring both a console-based controller and a GUI built with JavaFX. This system utilizes an SQLite database for persistent storage and also handles various data types stored in text files, binary files, and a database._
+_A Java-based application for managing cakes and orders, featuring both a console-based controller and a GUI built with JavaFX. This system utilizes an SQLite database for persistent storage and also handles various data types stored in text files, binary files._
 #
 ✨ **Features**
 - Order & Cake Management: Easily add, update, and track cakes and orders.
